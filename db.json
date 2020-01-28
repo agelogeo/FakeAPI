@@ -1,0 +1,49 @@
+{
+    "api": {
+        "results": 1,
+        "fixtures": [
+            {
+                "fixture_id": 216655,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2020-02-02T15:00:00+02:00",
+                "event_timestamp": 1580648400,
+                "firstHalfStart": null,
+                "secondHalfStart": null,
+                "round": "Regular Season - 22",
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
+                "venue": "Stadio Harilaou Kleánthis Vikelídis (Thessaloníki)",
+                "referee": null,
+                "homeTeam": {
+                    "team_id": 1123,
+                    "team_name": "Aris Thessalonikis",
+                    "logo": "https://media.api-football.com/teams/1123.png"
+                },
+                "awayTeam": {
+                    "team_id": 622,
+                    "team_name": "Panionios",
+                    "logo": "https://media.api-football.com/teams/622.png"
+                },
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
+                "score": {
+                    "halftime": null,
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                },
+                "events": null,
+                "lineups": null,
+                "statistics": null,
+                "players": null
+            }
+        ]
+    }
+}
