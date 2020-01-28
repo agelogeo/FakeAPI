@@ -39,45 +39,8 @@
                     "extratime": null,
                     "penalty": null
                 }
-            },
-            {
-                "fixture_id": 216520,
-                "league_id": 787,
-                "league": {
-                    "name": "Super League",
-                    "country": "Greece",
-                    "logo": "https://media.api-football.com/leagues/108.png",
-                    "flag": "https://media.api-football.com/flags/gr.svg"
-                },
-                "event_date": "2019-09-01T19:00:00+03:00",
-                "event_timestamp": 1567353600,
-                "firstHalfStart": 1567353600,
-                "secondHalfStart": 1567357200,
-                "round": "Regular Season - 2",
-                "status": "Match Finished",
-                "statusShort": "FT",
-                "elapsed": 90,
-                "venue": "Stadio Toumbas (Thessaloníki)",
-                "referee": "Anastasios Papapetrou, Greece",
-                "homeTeam": {
-                    "team_id": 619,
-                    "team_name": "PAOK",
-                    "logo": "https://media.api-football.com/teams/619.png"
-                },
-                "awayTeam": {
-                    "team_id": 622,
-                    "team_name": "Panionios",
-                    "logo": "https://media.api-football.com/teams/622.png"
-                },
-                "goalsHomeTeam": 2,
-                "goalsAwayTeam": 1,
-                "score": {
-                    "halftime": "1-0",
-                    "fulltime": "2-1",
-                    "extratime": null,
-                    "penalty": null
-                }
             }
+            
         ]
     }
 }
