@@ -1,7 +1,843 @@
 {
     "api": {
-        "results": 2,
+        "results": 26,
         "fixtures": [
+            {
+                "fixture_id": 216513,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-08-25T20:00:00+03:00",
+                "event_timestamp": 1566752400,
+                "firstHalfStart": 1566752400,
+                "secondHalfStart": 1566756000,
+                "round": "Regular Season - 1",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Toumbas (Thessaloníki)",
+                "referee": null,
+                "homeTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "awayTeam": {
+                    "team_id": 949,
+                    "team_name": "Panetolikos",
+                    "logo": "https://media.api-football.com/teams/949.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "1-0",
+                    "fulltime": "2-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216520,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-09-01T19:00:00+03:00",
+                "event_timestamp": 1567353600,
+                "firstHalfStart": 1567353600,
+                "secondHalfStart": 1567357200,
+                "round": "Regular Season - 2",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Toumbas (Thessaloníki)",
+                "referee": "Anastasios Papapetrou, Greece",
+                "homeTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "awayTeam": {
+                    "team_id": 622,
+                    "team_name": "Panionios",
+                    "logo": "https://media.api-football.com/teams/622.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "1-0",
+                    "fulltime": "2-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216525,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-09-14T19:00:00+03:00",
+                "event_timestamp": 1568476800,
+                "firstHalfStart": 1568476800,
+                "secondHalfStart": 1568480400,
+                "round": "Regular Season - 3",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Peristeriou (Athína (Athens))",
+                "referee": "Giorgos Tzovaras, Greece",
+                "homeTeam": {
+                    "team_id": 952,
+                    "team_name": "Atromitos Athinon",
+                    "logo": "https://media.api-football.com/teams/952.png"
+                },
+                "awayTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 3,
+                "score": {
+                    "halftime": "1-2",
+                    "fulltime": "2-3",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216534,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-09-22T18:30:00+03:00",
+                "event_timestamp": 1569166200,
+                "firstHalfStart": 1569166200,
+                "secondHalfStart": 1569169800,
+                "round": "Regular Season - 4",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Toumbas (Thessaloníki)",
+                "referee": "Anastasios Sidiropoulos, Greece",
+                "homeTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "awayTeam": {
+                    "team_id": 1123,
+                    "team_name": "Aris Thessalonikis",
+                    "logo": "https://media.api-football.com/teams/1123.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "1-1",
+                    "fulltime": "2-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216536,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-09-29T19:30:00+03:00",
+                "event_timestamp": 1569774600,
+                "firstHalfStart": 1569774600,
+                "secondHalfStart": 1569778200,
+                "round": "Regular Season - 5",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Olympiako Stadio Spyros Louis (Athína (Athens))",
+                "referee": "Stephan Klossner, Switzerland",
+                "homeTeam": {
+                    "team_id": 575,
+                    "team_name": "AEK Athens FC",
+                    "logo": "https://media.api-football.com/teams/575.png"
+                },
+                "awayTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "2-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216545,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-10-06T17:15:00+03:00",
+                "event_timestamp": 1570371300,
+                "firstHalfStart": 1570371300,
+                "secondHalfStart": 1570374900,
+                "round": "Regular Season - 6",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Theodoros Kolokotronis (Tripoli)",
+                "referee": "Evangelos Manouchos, Greece",
+                "homeTeam": {
+                    "team_id": 955,
+                    "team_name": "Asteras Tripolis",
+                    "logo": "https://media.api-football.com/teams/955.png"
+                },
+                "awayTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "1-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216556,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-10-20T18:00:00+03:00",
+                "event_timestamp": 1571583600,
+                "firstHalfStart": 1571583600,
+                "secondHalfStart": 1571587200,
+                "round": "Regular Season - 7",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Toumbas (Thessaloníki)",
+                "referee": "Fotios Fotiadis, Greece",
+                "homeTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "awayTeam": {
+                    "team_id": 956,
+                    "team_name": "Lamia",
+                    "logo": "https://media.api-football.com/teams/956.png"
+                },
+                "goalsHomeTeam": 3,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "3-0",
+                    "fulltime": "3-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216560,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-10-26T19:30:00+03:00",
+                "event_timestamp": 1572107400,
+                "firstHalfStart": 1572107400,
+                "secondHalfStart": 1572111000,
+                "round": "Regular Season - 8",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Panthessaliko Stadio (Volos)",
+                "referee": "Angelos Evangelou, Greece",
+                "homeTeam": {
+                    "team_id": 2110,
+                    "team_name": "Volos NFC",
+                    "logo": "https://media.api-football.com/teams/2110.png"
+                },
+                "awayTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "0-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216569,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-11-03T20:00:00+02:00",
+                "event_timestamp": 1572804000,
+                "firstHalfStart": 1572804000,
+                "secondHalfStart": 1572807600,
+                "round": "Regular Season - 9",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Toumbas (Thessaloníki)",
+                "referee": "Slavko Vincic, Slovenia",
+                "homeTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "awayTeam": {
+                    "team_id": 617,
+                    "team_name": "Panathinaikos",
+                    "logo": "https://media.api-football.com/teams/617.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "2-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216576,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-11-09T19:30:00+02:00",
+                "event_timestamp": 1573320600,
+                "firstHalfStart": 1573320600,
+                "secondHalfStart": 1573324200,
+                "round": "Regular Season - 10",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Thódoros Vardinoyánnis (Iraklio (Heraklion))",
+                "referee": "Athanasios Tzilos, Greece",
+                "homeTeam": {
+                    "team_id": 1124,
+                    "team_name": "OFI",
+                    "logo": "https://media.api-football.com/teams/1124.png"
+                },
+                "awayTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "0-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216583,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-11-24T18:00:00+02:00",
+                "event_timestamp": 1574611200,
+                "firstHalfStart": 1574611200,
+                "secondHalfStart": 1574614800,
+                "round": "Regular Season - 11",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Toumbas (Thessaloníki)",
+                "referee": "Georgios Tasis, Greece",
+                "homeTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "awayTeam": {
+                    "team_id": 953,
+                    "team_name": "Larisa",
+                    "logo": "https://media.api-football.com/teams/953.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "1-0",
+                    "fulltime": "1-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216588,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-12-01T19:30:00+02:00",
+                "event_timestamp": 1575221400,
+                "firstHalfStart": 1575221400,
+                "secondHalfStart": 1575225000,
+                "round": "Regular Season - 12",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Georgios Karaiskáki (Pireás (Piraeus))",
+                "referee": "Jose Maria Sanchez Martinez, Spain",
+                "homeTeam": {
+                    "team_id": 553,
+                    "team_name": "Olympiakos Piraeus",
+                    "logo": "https://media.api-football.com/teams/553.png"
+                },
+                "awayTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "1-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216597,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-12-07T18:00:00+02:00",
+                "event_timestamp": 1575734400,
+                "firstHalfStart": 1575734400,
+                "secondHalfStart": 1575738000,
+                "round": "Regular Season - 13",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Toumbas (Thessaloníki)",
+                "referee": "Vasilios Fotias, Greece",
+                "homeTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "awayTeam": {
+                    "team_id": 959,
+                    "team_name": "Xanthi FC",
+                    "logo": "https://media.api-football.com/teams/959.png"
+                },
+                "goalsHomeTeam": 2,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "2-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216605,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-12-15T19:30:00+02:00",
+                "event_timestamp": 1576431000,
+                "firstHalfStart": 1576431000,
+                "secondHalfStart": 1576434600,
+                "round": "Regular Season - 14",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Panetolikou (Agrinio)",
+                "referee": "Petros Tsagarakis, Greece",
+                "homeTeam": {
+                    "team_id": 949,
+                    "team_name": "Panetolikos",
+                    "logo": "https://media.api-football.com/teams/949.png"
+                },
+                "awayTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 3,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "0-3",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216612,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-12-19T19:30:00+02:00",
+                "event_timestamp": 1576776600,
+                "firstHalfStart": 1576776600,
+                "secondHalfStart": 1576780200,
+                "round": "Regular Season - 15",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Néas Smírnis (Athína (Athens))",
+                "referee": "Stephanos Koumparakis, Greece",
+                "homeTeam": {
+                    "team_id": 622,
+                    "team_name": "Panionios",
+                    "logo": "https://media.api-football.com/teams/622.png"
+                },
+                "awayTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "0-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216618,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2019-12-23T18:00:00+02:00",
+                "event_timestamp": 1577116800,
+                "firstHalfStart": 1577116800,
+                "secondHalfStart": 1577120400,
+                "round": "Regular Season - 16",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Toumbas (Thessaloníki)",
+                "referee": "Karantonis Dimitris, Greece",
+                "homeTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "awayTeam": {
+                    "team_id": 952,
+                    "team_name": "Atromitos Athinon",
+                    "logo": "https://media.api-football.com/teams/952.png"
+                },
+                "goalsHomeTeam": 5,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "3-0",
+                    "fulltime": "5-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216622,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2020-01-04T19:30:00+02:00",
+                "event_timestamp": 1578159000,
+                "firstHalfStart": 1578159000,
+                "secondHalfStart": 1578162600,
+                "round": "Regular Season - 17",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Harilaou Kleánthis Vikelídis (Thessaloníki)",
+                "referee": "Anastasios Papapetrou, Greece",
+                "homeTeam": {
+                    "team_id": 1123,
+                    "team_name": "Aris Thessalonikis",
+                    "logo": "https://media.api-football.com/teams/1123.png"
+                },
+                "awayTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "goalsHomeTeam": 4,
+                "goalsAwayTeam": 2,
+                "score": {
+                    "halftime": "2-1",
+                    "fulltime": "4-2",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216632,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2020-01-12T19:30:00+02:00",
+                "event_timestamp": 1578850200,
+                "firstHalfStart": 1578850200,
+                "secondHalfStart": 1578853800,
+                "round": "Regular Season - 18",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Toumbas (Thessaloníki)",
+                "referee": "Orel Grinfeld, Israel",
+                "homeTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "awayTeam": {
+                    "team_id": 575,
+                    "team_name": "AEK Athens FC",
+                    "logo": "https://media.api-football.com/teams/575.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "1-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216640,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2020-01-19T18:00:00+02:00",
+                "event_timestamp": 1579449600,
+                "firstHalfStart": 1579449600,
+                "secondHalfStart": 1579453200,
+                "round": "Regular Season - 19",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Stadio Toumbas (Thessaloníki)",
+                "referee": "Emmanouel Skoulas, Greece",
+                "homeTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "awayTeam": {
+                    "team_id": 955,
+                    "team_name": "Asteras Tripolis",
+                    "logo": "https://media.api-football.com/teams/955.png"
+                },
+                "goalsHomeTeam": 3,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "1-0",
+                    "fulltime": "3-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216647,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2020-01-23T19:00:00+02:00",
+                "event_timestamp": 1579798800,
+                "firstHalfStart": 1579798800,
+                "secondHalfStart": 1579802400,
+                "round": "Regular Season - 20",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Dimotiko Athlitiko Kentro Lamias (Lamia)",
+                "referee": "Athanasios Sezos, Greece",
+                "homeTeam": {
+                    "team_id": 956,
+                    "team_name": "Lamia",
+                    "logo": "https://media.api-football.com/teams/956.png"
+                },
+                "awayTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "goalsHomeTeam": 0,
+                "goalsAwayTeam": 1,
+                "score": {
+                    "halftime": "0-1",
+                    "fulltime": "0-1",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216653,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2020-01-27T18:00:00+02:00",
+                "event_timestamp": 1580140800,
+                "firstHalfStart": 1580140800,
+                "secondHalfStart": 1580144400,
+                "round": "Regular Season - 21",
+                "status": "Match Finished",
+                "statusShort": "FT",
+                "elapsed": 90,
+                "venue": "Toumba Stadium, Thessaloniki",
+                "referee": "Aristomenis Koutsiaftis, Greece",
+                "homeTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "awayTeam": {
+                    "team_id": 2110,
+                    "team_name": "Volos NFC",
+                    "logo": "https://media.api-football.com/teams/2110.png"
+                },
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 0,
+                "score": {
+                    "halftime": "0-0",
+                    "fulltime": "1-0",
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216661,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2020-02-02T19:30:00+02:00",
+                "event_timestamp": 1580664600,
+                "firstHalfStart": null,
+                "secondHalfStart": null,
+                "round": "Regular Season - 22",
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
+                "venue": "Olympiako Stadio Spyros Louis (Athína (Athens))",
+                "referee": null,
+                "homeTeam": {
+                    "team_id": 617,
+                    "team_name": "Panathinaikos",
+                    "logo": "https://media.api-football.com/teams/617.png"
+                },
+                "awayTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
+                "score": {
+                    "halftime": null,
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
             {
                 "fixture_id": 216667,
                 "league_id": 787,
@@ -38,14 +874,10 @@
                     "fulltime": null,
                     "extratime": null,
                     "penalty": null
-                },
-                "events": null,
-                "lineups": null,
-                "statistics": null,
-                "players": null
+                }
             },
             {
-                "fixture_id": 216667,
+                "fixture_id": 216669,
                 "league_id": 787,
                 "league": {
                     "name": "Super League",
@@ -53,11 +885,49 @@
                     "logo": "https://media.api-football.com/leagues/108.png",
                     "flag": "https://media.api-football.com/flags/gr.svg"
                 },
-                "event_date": "2020-02-09T18:00:00+02:00",
-                "event_timestamp": 1581264000,
+                "event_date": "2020-02-15T17:15:00+02:00",
+                "event_timestamp": 1581779700,
                 "firstHalfStart": null,
                 "secondHalfStart": null,
-                "round": "Regular Season - 23",
+                "round": "Regular Season - 24",
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
+                "venue": "AEL Arena (Larissa)",
+                "referee": null,
+                "homeTeam": {
+                    "team_id": 953,
+                    "team_name": "Larisa",
+                    "logo": "https://media.api-football.com/teams/953.png"
+                },
+                "awayTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
+                "score": {
+                    "halftime": null,
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216681,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2020-02-23T19:30:00+02:00",
+                "event_timestamp": 1582479000,
+                "firstHalfStart": null,
+                "secondHalfStart": null,
+                "round": "Regular Season - 25",
                 "status": "Not Started",
                 "statusShort": "NS",
                 "elapsed": 0,
@@ -69,9 +939,9 @@
                     "logo": "https://media.api-football.com/teams/619.png"
                 },
                 "awayTeam": {
-                    "team_id": 1124,
-                    "team_name": "Olympiacos",
-                    "logo": "https://media.api-football.com/teams/1124.png"
+                    "team_id": 553,
+                    "team_name": "Olympiakos Piraeus",
+                    "logo": "https://media.api-football.com/teams/553.png"
                 },
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null,
@@ -80,11 +950,45 @@
                     "fulltime": null,
                     "extratime": null,
                     "penalty": null
+                }
+            },
+            {
+                "fixture_id": 216684,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
                 },
-                "events": null,
-                "lineups": null,
-                "statistics": null,
-                "players": null
+                "event_date": "2020-03-01T19:00:00+02:00",
+                "event_timestamp": 1583082000,
+                "firstHalfStart": null,
+                "secondHalfStart": null,
+                "round": "Regular Season - 26",
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
+                "venue": "Xanthi FC Arena (Pigadia)",
+                "referee": null,
+                "homeTeam": {
+                    "team_id": 959,
+                    "team_name": "Xanthi FC",
+                    "logo": "https://media.api-football.com/teams/959.png"
+                },
+                "awayTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
+                "score": {
+                    "halftime": null,
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                }
             }
         ]
     }
