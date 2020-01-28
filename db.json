@@ -3,7 +3,7 @@
         "results": 1,
         "fixtures": [
             {
-                "fixture_id": 216655,
+                "fixture_id": 216667,
                 "league_id": 787,
                 "league": {
                     "name": "Super League",
@@ -11,25 +11,25 @@
                     "logo": "https://media.api-football.com/leagues/108.png",
                     "flag": "https://media.api-football.com/flags/gr.svg"
                 },
-                "event_date": "2020-02-02T15:00:00+02:00",
-                "event_timestamp": 1580648400,
+                "event_date": "2020-02-09T18:00:00+02:00",
+                "event_timestamp": 1581264000,
                 "firstHalfStart": null,
                 "secondHalfStart": null,
-                "round": "Regular Season - 22",
+                "round": "Regular Season - 23",
                 "status": "Not Started",
                 "statusShort": "NS",
                 "elapsed": 0,
-                "venue": "Stadio Harilaou Kleánthis Vikelídis (Thessaloníki)",
+                "venue": "Stadio Toumbas (Thessaloníki)",
                 "referee": null,
                 "homeTeam": {
-                    "team_id": 1123,
-                    "team_name": "Aris Thessalonikis",
-                    "logo": "https://media.api-football.com/teams/1123.png"
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
                 },
                 "awayTeam": {
-                    "team_id": 622,
-                    "team_name": "Panionios",
-                    "logo": "https://media.api-football.com/teams/622.png"
+                    "team_id": 1124,
+                    "team_name": "OFI",
+                    "logo": "https://media.api-football.com/teams/1124.png"
                 },
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null,
