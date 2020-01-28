@@ -1,6 +1,6 @@
 {
     "api": {
-        "results": 1,
+        "results": 2,
         "fixtures": [
             {
                 "fixture_id": 216667,
@@ -29,6 +29,48 @@
                 "awayTeam": {
                     "team_id": 1124,
                     "team_name": "OFI",
+                    "logo": "https://media.api-football.com/teams/1124.png"
+                },
+                "goalsHomeTeam": null,
+                "goalsAwayTeam": null,
+                "score": {
+                    "halftime": null,
+                    "fulltime": null,
+                    "extratime": null,
+                    "penalty": null
+                },
+                "events": null,
+                "lineups": null,
+                "statistics": null,
+                "players": null
+            },
+            {
+                "fixture_id": 216667,
+                "league_id": 787,
+                "league": {
+                    "name": "Super League",
+                    "country": "Greece",
+                    "logo": "https://media.api-football.com/leagues/108.png",
+                    "flag": "https://media.api-football.com/flags/gr.svg"
+                },
+                "event_date": "2020-02-09T18:00:00+02:00",
+                "event_timestamp": 1581264000,
+                "firstHalfStart": null,
+                "secondHalfStart": null,
+                "round": "Regular Season - 23",
+                "status": "Not Started",
+                "statusShort": "NS",
+                "elapsed": 0,
+                "venue": "Stadio Toumbas (Thessaloníki)",
+                "referee": null,
+                "homeTeam": {
+                    "team_id": 619,
+                    "team_name": "PAOK",
+                    "logo": "https://media.api-football.com/teams/619.png"
+                },
+                "awayTeam": {
+                    "team_id": 1124,
+                    "team_name": "Olympiacos",
                     "logo": "https://media.api-football.com/teams/1124.png"
                 },
                 "goalsHomeTeam": null,
