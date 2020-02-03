@@ -1,121 +1,1183 @@
 {
-    "api": {
-        "results": 3,
-        "fixtures": [
-            {
-                "fixture_id": 216661,
-                "league_id": 787,
-                "league": {
-                    "name": "Super League",
-                    "country": "Greece",
-                    "logo": "https://media.api-football.com/leagues/108.png",
-                    "flag": "https://media.api-football.com/flags/gr.svg"
+    "data": [
+        {
+            "id": 11865490,
+            "league_id": 271,
+            "season_id": 16020,
+            "stage_id": 77443802,
+            "round_id": 169517,
+            "group_id": null,
+            "aggregate_id": null,
+            "venue_id": 5653,
+            "referee_id": null,
+            "localteam_id": 390,
+            "visitorteam_id": 1703,
+            "winner_team_id": null,
+            "weather_report": null,
+            "commentaries": false,
+            "attendance": null,
+            "pitch": null,
+            "details": null,
+            "neutral_venue": false,
+            "winning_odds_calculated": false,
+            "formations": {
+                "localteam_formation": null,
+                "visitorteam_formation": null
+            },
+            "scores": {
+                "localteam_score": 0,
+                "visitorteam_score": 0,
+                "localteam_pen_score": null,
+                "visitorteam_pen_score": null,
+                "ht_score": null,
+                "ft_score": null,
+                "et_score": null,
+                "ps_score": null
+            },
+            "time": {
+                "status": "NS",
+                "starting_at": {
+                    "date_time": "2020-02-16 13:00:00",
+                    "date": "2020-02-16",
+                    "time": "13:00:00",
+                    "timestamp": 1581850800,
+                    "timezone": "Europe/Athens"
                 },
-                "event_date": "2020-02-02T19:30:00+02:00",
-                "event_timestamp": 1580664600,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Regular Season - 22",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": "Olympiako Stadio Spyros Louis (Athína (Athens))",
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 617,
-                    "team_name": "Panathinaikos",
-                    "logo": "https://media.api-football.com/teams/617.png"
-                },
-                "awayTeam": {
-                    "team_id": 619,
-                    "team_name": "PAOK",
-                    "logo": "https://media.api-football.com/teams/619.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
+                "minute": null,
+                "second": null,
+                "added_time": null,
+                "extra_minute": null,
+                "injury_time": null
+            },
+            "coaches": {
+                "localteam_coach_id": null,
+                "visitorteam_coach_id": null
+            },
+            "standings": {
+                "localteam_position": null,
+                "visitorteam_position": null
+            },
+            "assistants": {
+                "first_assistant_id": null,
+                "second_assistant_id": null,
+                "fourth_official_id": null
+            },
+            "leg": "1/1",
+            "colors": null,
+            "deleted": false,
+            "localTeam": {
+                "data": {
+                    "id": 390,
+                    "legacy_id": null,
+                    "name": "SønderjyskE",
+                    "short_code": "SON",
+                    "twitter": null,
+                    "country_id": 320,
+                    "national_team": false,
+                    "founded": 2004,
+                    "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/6/390.png",
+                    "venue_id": 5653,
+                    "current_season_id": 16020
                 }
             },
-            {
-                "fixture_id": 216667,
-                "league_id": 787,
-                "league": {
-                    "name": "Super League",
-                    "country": "Greece",
-                    "logo": "https://media.api-football.com/leagues/108.png",
-                    "flag": "https://media.api-football.com/flags/gr.svg"
-                },
-                "event_date": "2020-02-09T18:00:00+02:00",
-                "event_timestamp": 1581264000,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Regular Season - 23",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": "Stadio Toumbas (Thessaloníki)",
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 619,
-                    "team_name": "PAOK",
-                    "logo": "https://media.api-football.com/teams/619.png"
-                },
-                "awayTeam": {
-                    "team_id": 1124,
-                    "team_name": "OFI",
-                    "logo": "https://media.api-football.com/teams/1124.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
+            "visitorTeam": {
+                "data": {
+                    "id": 1703,
+                    "legacy_id": 517,
+                    "name": "Hobro",
+                    "short_code": "HOB",
+                    "twitter": null,
+                    "country_id": 320,
+                    "national_team": false,
+                    "founded": 1913,
+                    "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/7/1703.png",
+                    "venue_id": 849,
+                    "current_season_id": 16020
                 }
             },
-            {
-                "fixture_id": 216669,
-                "league_id": 787,
-                "league": {
-                    "name": "Super League",
-                    "country": "Greece",
-                    "logo": "https://media.api-football.com/leagues/108.png",
-                    "flag": "https://media.api-football.com/flags/gr.svg"
-                },
-                "event_date": "2020-02-15T17:15:00+02:00",
-                "event_timestamp": 1581779700,
-                "firstHalfStart": null,
-                "secondHalfStart": null,
-                "round": "Regular Season - 24",
-                "status": "Not Started",
-                "statusShort": "NS",
-                "elapsed": 0,
-                "venue": "AEL Arena (Larissa)",
-                "referee": null,
-                "homeTeam": {
-                    "team_id": 953,
-                    "team_name": "Larisa",
-                    "logo": "https://media.api-football.com/teams/953.png"
-                },
-                "awayTeam": {
-                    "team_id": 619,
-                    "team_name": "PAOK",
-                    "logo": "https://media.api-football.com/teams/619.png"
-                },
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null,
-                "score": {
-                    "halftime": null,
-                    "fulltime": null,
-                    "extratime": null,
-                    "penalty": null
+            "league": {
+                "data": {
+                    "id": 271,
+                    "active": true,
+                    "type": "domestic",
+                    "legacy_id": 43,
+                    "country_id": 320,
+                    "logo_path": "https://cdn.sportmonks.com/images/soccer/leagues/271.png",
+                    "name": "Superliga",
+                    "is_cup": false,
+                    "current_season_id": 16020,
+                    "current_round_id": 169517,
+                    "current_stage_id": 77443802,
+                    "live_standings": true,
+                    "coverage": {
+                        "predictions": 1,
+                        "topscorer_goals": true,
+                        "topscorer_assists": true,
+                        "topscorer_cards": true
+                    }
+                }
+            },
+            "venue": {
+                "data": {
+                    "id": 5653,
+                    "name": "Sydbank Park",
+                    "surface": "grass",
+                    "address": "Stadionvej 7",
+                    "city": "Haderslev",
+                    "capacity": 10000,
+                    "image_path": "https://cdn.sportmonks.com/images/soccer/venues/21/5653.png",
+                    "coordinates": "55.261402,9.487573"
+                }
+            },
+            "probability": {
+                "data": {
+                    "fixture_id": 11865490,
+                    "predictions": {
+                        "AT_over_0_5": 66.706,
+                        "AT_over_1_5": 30.089,
+                        "AT_under_0_5": 33.291,
+                        "AT_under_1_5": 69.908,
+                        "HT_over_0_5": 77.676,
+                        "HT_over_1_5": 44.202,
+                        "HT_under_0_5": 22.322,
+                        "HT_under_1_5": 55.796,
+                        "away": 27.811,
+                        "btts": 51.815,
+                        "correct_score": {
+                            "0-0": 7.431,
+                            "0-1": 8.174,
+                            "0-2": 4.495,
+                            "0-3": 1.648,
+                            "0-4": 0.453,
+                            "0-5": 0.1,
+                            "0-6": 0.018,
+                            "0-7": 0.003,
+                            "1-0": 11.14,
+                            "1-1": 12.25,
+                            "1-2": 6.741,
+                            "1-3": 2.471,
+                            "1-4": 0.68,
+                            "1-5": 0.149,
+                            "1-6": 0.027,
+                            "1-7": 0.004,
+                            "1-8": 0.001,
+                            "2-0": 8.356,
+                            "2-1": 9.19,
+                            "2-2": 5.054,
+                            "2-3": 1.853,
+                            "2-4": 0.509,
+                            "2-5": 0.112,
+                            "2-6": 0.021,
+                            "2-7": 0.003,
+                            "3-0": 4.177,
+                            "3-1": 4.594,
+                            "3-2": 2.526,
+                            "3-3": 0.926,
+                            "3-4": 0.255,
+                            "3-5": 0.056,
+                            "3-6": 0.01,
+                            "3-7": 0.002,
+                            "4-0": 1.566,
+                            "4-1": 1.722,
+                            "4-2": 0.947,
+                            "4-3": 0.347,
+                            "4-4": 0.095,
+                            "4-5": 0.021,
+                            "4-6": 0.004,
+                            "4-7": 0.001,
+                            "5-0": 0.47,
+                            "5-1": 0.517,
+                            "5-2": 0.284,
+                            "5-3": 0.104,
+                            "5-4": 0.029,
+                            "5-5": 0.006,
+                            "5-6": 0.001,
+                            "6-0": 0.117,
+                            "6-1": 0.129,
+                            "6-2": 0.071,
+                            "6-3": 0.026,
+                            "6-4": 0.007,
+                            "6-5": 0.002,
+                            "7-0": 0.025,
+                            "7-1": 0.028,
+                            "7-2": 0.015,
+                            "7-3": 0.006,
+                            "7-4": 0.002,
+                            "8-0": 0.005,
+                            "8-1": 0.005,
+                            "8-2": 0.003,
+                            "8-3": 0.001,
+                            "9-0": 0.001,
+                            "9-1": 0.001
+                        },
+                        "draw": 25.769,
+                        "home": 46.416,
+                        "over_2_5": 48.141,
+                        "over_3_5": 26.384,
+                        "under_2_5": 51.857,
+                        "under_3_5": 73.613
+                    }
                 }
             }
-        ]
+        },
+        {
+            "id": 11865493,
+            "league_id": 271,
+            "season_id": 16020,
+            "stage_id": 77443802,
+            "round_id": 169517,
+            "group_id": null,
+            "aggregate_id": null,
+            "venue_id": 1436,
+            "referee_id": null,
+            "localteam_id": 2394,
+            "visitorteam_id": 211,
+            "winner_team_id": null,
+            "weather_report": null,
+            "commentaries": false,
+            "attendance": null,
+            "pitch": null,
+            "details": null,
+            "neutral_venue": false,
+            "winning_odds_calculated": false,
+            "formations": {
+                "localteam_formation": null,
+                "visitorteam_formation": null
+            },
+            "scores": {
+                "localteam_score": 0,
+                "visitorteam_score": 0,
+                "localteam_pen_score": null,
+                "visitorteam_pen_score": null,
+                "ht_score": null,
+                "ft_score": null,
+                "et_score": null,
+                "ps_score": null
+            },
+            "time": {
+                "status": "NS",
+                "starting_at": {
+                    "date_time": "2020-02-16 15:00:00",
+                    "date": "2020-02-16",
+                    "time": "15:00:00",
+                    "timestamp": 1581858000,
+                    "timezone": "Europe/Athens"
+                },
+                "minute": null,
+                "second": null,
+                "added_time": null,
+                "extra_minute": null,
+                "injury_time": null
+            },
+            "coaches": {
+                "localteam_coach_id": null,
+                "visitorteam_coach_id": null
+            },
+            "standings": {
+                "localteam_position": null,
+                "visitorteam_position": null
+            },
+            "assistants": {
+                "first_assistant_id": null,
+                "second_assistant_id": null,
+                "fourth_official_id": null
+            },
+            "leg": "1/1",
+            "colors": null,
+            "deleted": false,
+            "localTeam": {
+                "data": {
+                    "id": 2394,
+                    "legacy_id": null,
+                    "name": "Nordsjælland",
+                    "short_code": "FCN",
+                    "twitter": null,
+                    "country_id": 320,
+                    "national_team": false,
+                    "founded": 2003,
+                    "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/26/2394.png",
+                    "venue_id": 283922,
+                    "current_season_id": 16020
+                }
+            },
+            "visitorTeam": {
+                "data": {
+                    "id": 211,
+                    "legacy_id": 631,
+                    "name": "Horsens",
+                    "short_code": "ACH",
+                    "twitter": null,
+                    "country_id": 320,
+                    "national_team": false,
+                    "founded": 1994,
+                    "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/19/211.png",
+                    "venue_id": 5661,
+                    "current_season_id": 16020
+                }
+            },
+            "league": {
+                "data": {
+                    "id": 271,
+                    "active": true,
+                    "type": "domestic",
+                    "legacy_id": 43,
+                    "country_id": 320,
+                    "logo_path": "https://cdn.sportmonks.com/images/soccer/leagues/271.png",
+                    "name": "Superliga",
+                    "is_cup": false,
+                    "current_season_id": 16020,
+                    "current_round_id": 169517,
+                    "current_stage_id": 77443802,
+                    "live_standings": true,
+                    "coverage": {
+                        "predictions": 1,
+                        "topscorer_goals": true,
+                        "topscorer_assists": true,
+                        "topscorer_cards": true
+                    }
+                }
+            },
+            "venue": {
+                "data": {
+                    "id": 1436,
+                    "name": "Right to Dream Park",
+                    "surface": "grass",
+                    "address": "Idrætsvænget 2",
+                    "city": "Farum",
+                    "capacity": 10100,
+                    "image_path": "https://cdn.sportmonks.com/images/soccer/venues/28/1436.png",
+                    "coordinates": "55.816125,12.352792"
+                }
+            },
+            "probability": {
+                "data": {
+                    "fixture_id": 11865493,
+                    "predictions": {
+                        "AT_over_0_5": 68.405,
+                        "AT_over_1_5": 32.003,
+                        "AT_under_0_5": 31.59,
+                        "AT_under_1_5": 67.993,
+                        "HT_over_0_5": 86.06,
+                        "HT_over_1_5": 58.595,
+                        "HT_under_0_5": 13.935,
+                        "HT_under_1_5": 41.4,
+                        "away": 21.901,
+                        "btts": 58.871,
+                        "correct_score": {
+                            "0-0": 4.403,
+                            "0-1": 5.073,
+                            "0-2": 2.923,
+                            "0-3": 1.123,
+                            "0-4": 0.323,
+                            "0-5": 0.075,
+                            "0-6": 0.014,
+                            "0-7": 0.002,
+                            "1-0": 8.677,
+                            "1-1": 9.998,
+                            "1-2": 5.76,
+                            "1-3": 2.212,
+                            "1-4": 0.637,
+                            "1-5": 0.147,
+                            "1-6": 0.028,
+                            "1-7": 0.005,
+                            "1-8": 0.001,
+                            "2-0": 8.549,
+                            "2-1": 9.851,
+                            "2-2": 5.676,
+                            "2-3": 2.18,
+                            "2-4": 0.628,
+                            "2-5": 0.145,
+                            "2-6": 0.028,
+                            "2-7": 0.005,
+                            "2-8": 0.001,
+                            "3-0": 5.616,
+                            "3-1": 6.471,
+                            "3-2": 3.728,
+                            "3-3": 1.432,
+                            "3-4": 0.413,
+                            "3-5": 0.095,
+                            "3-6": 0.018,
+                            "3-7": 0.003,
+                            "4-0": 2.767,
+                            "4-1": 3.188,
+                            "4-2": 1.837,
+                            "4-3": 0.706,
+                            "4-4": 0.203,
+                            "4-5": 0.047,
+                            "4-6": 0.009,
+                            "4-7": 0.001,
+                            "5-0": 1.09,
+                            "5-1": 1.257,
+                            "5-2": 0.724,
+                            "5-3": 0.278,
+                            "5-4": 0.08,
+                            "5-5": 0.018,
+                            "5-6": 0.004,
+                            "5-7": 0.001,
+                            "6-0": 0.358,
+                            "6-1": 0.413,
+                            "6-2": 0.238,
+                            "6-3": 0.091,
+                            "6-4": 0.026,
+                            "6-5": 0.006,
+                            "6-6": 0.001,
+                            "7-0": 0.101,
+                            "7-1": 0.116,
+                            "7-2": 0.067,
+                            "7-3": 0.026,
+                            "7-4": 0.007,
+                            "7-5": 0.002,
+                            "8-0": 0.025,
+                            "8-1": 0.029,
+                            "8-2": 0.016,
+                            "8-3": 0.006,
+                            "8-4": 0.002,
+                            "9-0": 0.005,
+                            "9-1": 0.006,
+                            "9-2": 0.004,
+                            "9-3": 0.001
+                        },
+                        "draw": 21.731,
+                        "home": 56.364,
+                        "over_2_5": 60.373,
+                        "over_3_5": 38.022,
+                        "under_2_5": 39.623,
+                        "under_3_5": 61.972
+                    }
+                }
+            }
+        },
+        {
+            "id": 11865496,
+            "league_id": 271,
+            "season_id": 16020,
+            "stage_id": 77443802,
+            "round_id": 169517,
+            "group_id": null,
+            "aggregate_id": null,
+            "venue_id": 85371,
+            "referee_id": null,
+            "localteam_id": 86,
+            "visitorteam_id": 1020,
+            "winner_team_id": null,
+            "weather_report": null,
+            "commentaries": false,
+            "attendance": null,
+            "pitch": null,
+            "details": null,
+            "neutral_venue": false,
+            "winning_odds_calculated": false,
+            "formations": {
+                "localteam_formation": null,
+                "visitorteam_formation": null
+            },
+            "scores": {
+                "localteam_score": 0,
+                "visitorteam_score": 0,
+                "localteam_pen_score": null,
+                "visitorteam_pen_score": null,
+                "ht_score": null,
+                "ft_score": null,
+                "et_score": null,
+                "ps_score": null
+            },
+            "time": {
+                "status": "NS",
+                "starting_at": {
+                    "date_time": "2020-02-16 15:00:00",
+                    "date": "2020-02-16",
+                    "time": "15:00:00",
+                    "timestamp": 1581858000,
+                    "timezone": "Europe/Athens"
+                },
+                "minute": null,
+                "second": null,
+                "added_time": null,
+                "extra_minute": null,
+                "injury_time": null
+            },
+            "coaches": {
+                "localteam_coach_id": null,
+                "visitorteam_coach_id": null
+            },
+            "standings": {
+                "localteam_position": null,
+                "visitorteam_position": null
+            },
+            "assistants": {
+                "first_assistant_id": null,
+                "second_assistant_id": null,
+                "fourth_official_id": null
+            },
+            "leg": "1/1",
+            "colors": null,
+            "deleted": false,
+            "localTeam": {
+                "data": {
+                    "id": 86,
+                    "legacy_id": 522,
+                    "name": "Silkeborg",
+                    "short_code": "SIL",
+                    "twitter": null,
+                    "country_id": 320,
+                    "national_team": false,
+                    "founded": 1917,
+                    "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/22/86.png",
+                    "venue_id": 85371,
+                    "current_season_id": 16020
+                }
+            },
+            "visitorTeam": {
+                "data": {
+                    "id": 1020,
+                    "legacy_id": 173,
+                    "name": "AaB",
+                    "short_code": "AAB",
+                    "twitter": null,
+                    "country_id": 320,
+                    "national_team": false,
+                    "founded": 1885,
+                    "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/28/1020.png",
+                    "venue_id": 85765,
+                    "current_season_id": 16020
+                }
+            },
+            "league": {
+                "data": {
+                    "id": 271,
+                    "active": true,
+                    "type": "domestic",
+                    "legacy_id": 43,
+                    "country_id": 320,
+                    "logo_path": "https://cdn.sportmonks.com/images/soccer/leagues/271.png",
+                    "name": "Superliga",
+                    "is_cup": false,
+                    "current_season_id": 16020,
+                    "current_round_id": 169517,
+                    "current_stage_id": 77443802,
+                    "live_standings": true,
+                    "coverage": {
+                        "predictions": 1,
+                        "topscorer_goals": true,
+                        "topscorer_assists": true,
+                        "topscorer_cards": true
+                    }
+                }
+            },
+            "venue": {
+                "data": {
+                    "id": 85371,
+                    "name": "JYSK park",
+                    "surface": "artificial turf",
+                    "address": "Ansvej 104",
+                    "city": "Silkeborg",
+                    "capacity": 10000,
+                    "image_path": null,
+                    "coordinates": "56.184081,9.575425"
+                }
+            },
+            "probability": {
+                "data": {
+                    "fixture_id": 11865496,
+                    "predictions": {
+                        "AT_over_0_5": 89.941,
+                        "AT_over_1_5": 66.842,
+                        "AT_under_0_5": 10.056,
+                        "AT_under_1_5": 33.155,
+                        "HT_over_0_5": 74.52,
+                        "HT_over_1_5": 39.684,
+                        "HT_under_0_5": 25.477,
+                        "HT_under_1_5": 60.313,
+                        "away": 58.315,
+                        "btts": 67.026,
+                        "correct_score": {
+                            "0-0": 2.562,
+                            "0-1": 5.885,
+                            "0-2": 6.759,
+                            "0-3": 5.176,
+                            "0-4": 2.972,
+                            "0-5": 1.366,
+                            "0-6": 0.523,
+                            "0-7": 0.172,
+                            "0-8": 0.049,
+                            "0-9": 0.013,
+                            "1-0": 3.503,
+                            "1-1": 8.048,
+                            "1-2": 9.243,
+                            "1-3": 7.077,
+                            "1-4": 4.064,
+                            "1-5": 1.867,
+                            "1-6": 0.715,
+                            "1-7": 0.235,
+                            "1-8": 0.067,
+                            "1-9": 0.017,
+                            "2-0": 2.395,
+                            "2-1": 5.502,
+                            "2-2": 6.32,
+                            "2-3": 4.839,
+                            "2-4": 2.779,
+                            "2-5": 1.277,
+                            "2-6": 0.489,
+                            "2-7": 0.16,
+                            "2-8": 0.046,
+                            "2-9": 0.012,
+                            "3-0": 1.092,
+                            "3-1": 2.508,
+                            "3-2": 2.881,
+                            "3-3": 2.206,
+                            "3-4": 1.267,
+                            "3-5": 0.582,
+                            "3-6": 0.223,
+                            "3-7": 0.073,
+                            "3-8": 0.021,
+                            "3-9": 0.005,
+                            "4-0": 0.373,
+                            "4-1": 0.857,
+                            "4-2": 0.985,
+                            "4-3": 0.754,
+                            "4-4": 0.433,
+                            "4-5": 0.199,
+                            "4-6": 0.076,
+                            "4-7": 0.025,
+                            "4-8": 0.007,
+                            "4-9": 0.002,
+                            "5-0": 0.102,
+                            "5-1": 0.234,
+                            "5-2": 0.269,
+                            "5-3": 0.206,
+                            "5-4": 0.118,
+                            "5-5": 0.054,
+                            "5-6": 0.021,
+                            "5-7": 0.007,
+                            "5-8": 0.002,
+                            "5-9": 0.001,
+                            "6-0": 0.023,
+                            "6-1": 0.053,
+                            "6-2": 0.061,
+                            "6-3": 0.047,
+                            "6-4": 0.027,
+                            "6-5": 0.012,
+                            "6-6": 0.005,
+                            "6-7": 0.002,
+                            "7-0": 0.005,
+                            "7-1": 0.01,
+                            "7-2": 0.012,
+                            "7-3": 0.009,
+                            "7-4": 0.005,
+                            "7-5": 0.002,
+                            "7-6": 0.001,
+                            "8-0": 0.001,
+                            "8-1": 0.002,
+                            "8-2": 0.002,
+                            "8-3": 0.002,
+                            "8-4": 0.001
+                        },
+                        "draw": 19.628,
+                        "home": 22.054,
+                        "over_2_5": 70.845,
+                        "over_3_5": 49.832,
+                        "under_2_5": 29.151,
+                        "under_3_5": 50.165
+                    }
+                }
+            }
+        },
+        {
+            "id": 11865494,
+            "league_id": 271,
+            "season_id": 16020,
+            "stage_id": 77443802,
+            "round_id": 169517,
+            "group_id": null,
+            "aggregate_id": null,
+            "venue_id": 1708,
+            "referee_id": null,
+            "localteam_id": 2905,
+            "visitorteam_id": 2356,
+            "winner_team_id": null,
+            "weather_report": null,
+            "commentaries": false,
+            "attendance": null,
+            "pitch": null,
+            "details": null,
+            "neutral_venue": false,
+            "winning_odds_calculated": false,
+            "formations": {
+                "localteam_formation": null,
+                "visitorteam_formation": null
+            },
+            "scores": {
+                "localteam_score": 0,
+                "visitorteam_score": 0,
+                "localteam_pen_score": null,
+                "visitorteam_pen_score": null,
+                "ht_score": null,
+                "ft_score": null,
+                "et_score": null,
+                "ps_score": null
+            },
+            "time": {
+                "status": "NS",
+                "starting_at": {
+                    "date_time": "2020-02-16 17:00:00",
+                    "date": "2020-02-16",
+                    "time": "17:00:00",
+                    "timestamp": 1581865200,
+                    "timezone": "Europe/Athens"
+                },
+                "minute": null,
+                "second": null,
+                "added_time": null,
+                "extra_minute": null,
+                "injury_time": null
+            },
+            "coaches": {
+                "localteam_coach_id": null,
+                "visitorteam_coach_id": null
+            },
+            "standings": {
+                "localteam_position": null,
+                "visitorteam_position": null
+            },
+            "assistants": {
+                "first_assistant_id": null,
+                "second_assistant_id": null,
+                "fourth_official_id": null
+            },
+            "leg": "1/1",
+            "colors": null,
+            "deleted": false,
+            "localTeam": {
+                "data": {
+                    "id": 2905,
+                    "legacy_id": 629,
+                    "name": "AGF",
+                    "short_code": "AGF",
+                    "twitter": null,
+                    "country_id": 320,
+                    "national_team": false,
+                    "founded": 1902,
+                    "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/25/2905.png",
+                    "venue_id": 1708,
+                    "current_season_id": 16020
+                }
+            },
+            "visitorTeam": {
+                "data": {
+                    "id": 2356,
+                    "legacy_id": 514,
+                    "name": "Randers",
+                    "short_code": "RDF",
+                    "twitter": null,
+                    "country_id": 320,
+                    "national_team": false,
+                    "founded": 2003,
+                    "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/20/2356.png",
+                    "venue_id": 318820,
+                    "current_season_id": 16020
+                }
+            },
+            "league": {
+                "data": {
+                    "id": 271,
+                    "active": true,
+                    "type": "domestic",
+                    "legacy_id": 43,
+                    "country_id": 320,
+                    "logo_path": "https://cdn.sportmonks.com/images/soccer/leagues/271.png",
+                    "name": "Superliga",
+                    "is_cup": false,
+                    "current_season_id": 16020,
+                    "current_round_id": 169517,
+                    "current_stage_id": 77443802,
+                    "live_standings": true,
+                    "coverage": {
+                        "predictions": 1,
+                        "topscorer_goals": true,
+                        "topscorer_assists": true,
+                        "topscorer_cards": true
+                    }
+                }
+            },
+            "venue": {
+                "data": {
+                    "id": 1708,
+                    "name": "Ceres Park",
+                    "surface": "grass",
+                    "address": "Stadion Allé 70",
+                    "city": "Århus",
+                    "capacity": 20032,
+                    "image_path": "https://cdn.sportmonks.com/images/soccer/venues/12/1708.png",
+                    "coordinates": "56.132030,10.196503"
+                }
+            },
+            "probability": {
+                "data": {
+                    "fixture_id": 11865494,
+                    "predictions": {
+                        "AT_over_0_5": 72.085,
+                        "AT_over_1_5": 36.467,
+                        "AT_under_0_5": 27.914,
+                        "AT_under_1_5": 63.533,
+                        "HT_over_0_5": 81.333,
+                        "HT_over_1_5": 50,
+                        "HT_under_0_5": 18.667,
+                        "HT_under_1_5": 49.999,
+                        "away": 29.16,
+                        "btts": 58.629,
+                        "correct_score": {
+                            "0-0": 5.211,
+                            "0-1": 6.649,
+                            "0-2": 4.242,
+                            "0-3": 1.804,
+                            "0-4": 0.576,
+                            "0-5": 0.147,
+                            "0-6": 0.031,
+                            "0-7": 0.006,
+                            "0-8": 0.001,
+                            "1-0": 8.746,
+                            "1-1": 11.16,
+                            "1-2": 7.12,
+                            "1-3": 3.029,
+                            "1-4": 0.966,
+                            "1-5": 0.247,
+                            "1-6": 0.052,
+                            "1-7": 0.01,
+                            "1-8": 0.002,
+                            "2-0": 7.34,
+                            "2-1": 9.366,
+                            "2-2": 5.975,
+                            "2-3": 2.542,
+                            "2-4": 0.811,
+                            "2-5": 0.207,
+                            "2-6": 0.044,
+                            "2-7": 0.008,
+                            "2-8": 0.001,
+                            "3-0": 4.106,
+                            "3-1": 5.24,
+                            "3-2": 3.343,
+                            "3-3": 1.422,
+                            "3-4": 0.454,
+                            "3-5": 0.116,
+                            "3-6": 0.025,
+                            "3-7": 0.004,
+                            "3-8": 0.001,
+                            "4-0": 1.723,
+                            "4-1": 2.198,
+                            "4-2": 1.403,
+                            "4-3": 0.597,
+                            "4-4": 0.19,
+                            "4-5": 0.049,
+                            "4-6": 0.01,
+                            "4-7": 0.002,
+                            "5-0": 0.578,
+                            "5-1": 0.738,
+                            "5-2": 0.471,
+                            "5-3": 0.2,
+                            "5-4": 0.064,
+                            "5-5": 0.016,
+                            "5-6": 0.003,
+                            "5-7": 0.001,
+                            "6-0": 0.162,
+                            "6-1": 0.206,
+                            "6-2": 0.132,
+                            "6-3": 0.056,
+                            "6-4": 0.018,
+                            "6-5": 0.005,
+                            "6-6": 0.001,
+                            "7-0": 0.039,
+                            "7-1": 0.049,
+                            "7-2": 0.032,
+                            "7-3": 0.013,
+                            "7-4": 0.004,
+                            "7-5": 0.001,
+                            "8-0": 0.008,
+                            "8-1": 0.01,
+                            "8-2": 0.007,
+                            "8-3": 0.003,
+                            "8-4": 0.001,
+                            "9-0": 0.002,
+                            "9-1": 0.002,
+                            "9-2": 0.001,
+                            "9-3": 0.001
+                        },
+                        "draw": 23.975,
+                        "home": 46.864,
+                        "over_2_5": 56.652,
+                        "over_3_5": 34.256,
+                        "under_2_5": 43.348,
+                        "under_3_5": 65.744
+                    }
+                }
+            }
+        },
+        {
+            "id": 11865492,
+            "league_id": 271,
+            "season_id": 16020,
+            "stage_id": 77443802,
+            "round_id": 169517,
+            "group_id": null,
+            "aggregate_id": null,
+            "venue_id": 214349,
+            "referee_id": null,
+            "localteam_id": 1789,
+            "visitorteam_id": 293,
+            "winner_team_id": null,
+            "weather_report": null,
+            "commentaries": false,
+            "attendance": null,
+            "pitch": null,
+            "details": null,
+            "neutral_venue": false,
+            "winning_odds_calculated": false,
+            "formations": {
+                "localteam_formation": null,
+                "visitorteam_formation": null
+            },
+            "scores": {
+                "localteam_score": 0,
+                "visitorteam_score": 0,
+                "localteam_pen_score": null,
+                "visitorteam_pen_score": null,
+                "ht_score": null,
+                "ft_score": null,
+                "et_score": null,
+                "ps_score": null
+            },
+            "time": {
+                "status": "NS",
+                "starting_at": {
+                    "date_time": "2020-02-16 19:00:00",
+                    "date": "2020-02-16",
+                    "time": "19:00:00",
+                    "timestamp": 1581872400,
+                    "timezone": "Europe/Athens"
+                },
+                "minute": null,
+                "second": null,
+                "added_time": null,
+                "extra_minute": null,
+                "injury_time": null
+            },
+            "coaches": {
+                "localteam_coach_id": null,
+                "visitorteam_coach_id": null
+            },
+            "standings": {
+                "localteam_position": null,
+                "visitorteam_position": null
+            },
+            "assistants": {
+                "first_assistant_id": null,
+                "second_assistant_id": null,
+                "fourth_official_id": null
+            },
+            "leg": "1/1",
+            "colors": null,
+            "deleted": false,
+            "localTeam": {
+                "data": {
+                    "id": 1789,
+                    "legacy_id": 520,
+                    "name": "OB",
+                    "short_code": "ODE",
+                    "twitter": null,
+                    "country_id": 320,
+                    "national_team": false,
+                    "founded": 1889,
+                    "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/29/1789.png",
+                    "venue_id": 214349,
+                    "current_season_id": 16020
+                }
+            },
+            "visitorTeam": {
+                "data": {
+                    "id": 293,
+                    "legacy_id": null,
+                    "name": "Brøndby",
+                    "short_code": "SLO",
+                    "twitter": null,
+                    "country_id": 320,
+                    "national_team": false,
+                    "founded": 1964,
+                    "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/5/293.png",
+                    "venue_id": 5659,
+                    "current_season_id": 16020
+                }
+            },
+            "league": {
+                "data": {
+                    "id": 271,
+                    "active": true,
+                    "type": "domestic",
+                    "legacy_id": 43,
+                    "country_id": 320,
+                    "logo_path": "https://cdn.sportmonks.com/images/soccer/leagues/271.png",
+                    "name": "Superliga",
+                    "is_cup": false,
+                    "current_season_id": 16020,
+                    "current_round_id": 169517,
+                    "current_stage_id": 77443802,
+                    "live_standings": true,
+                    "coverage": {
+                        "predictions": 1,
+                        "topscorer_goals": true,
+                        "topscorer_assists": true,
+                        "topscorer_cards": true
+                    }
+                }
+            },
+            "venue": {
+                "data": {
+                    "id": 214349,
+                    "name": "Nature Energy Park",
+                    "surface": "grass",
+                    "address": "Højstrupvej 7B",
+                    "city": "Odense",
+                    "capacity": 15761,
+                    "image_path": "https://cdn.sportmonks.com/images/soccer/venues/13/214349.png",
+                    "coordinates": "55.397831,10.350139"
+                }
+            },
+            "probability": {
+                "data": {
+                    "fixture_id": 11865492,
+                    "predictions": {
+                        "AT_over_0_5": 77.63,
+                        "AT_over_1_5": 44.133,
+                        "AT_under_0_5": 22.368,
+                        "AT_under_1_5": 55.865,
+                        "HT_over_0_5": 80.862,
+                        "HT_over_1_5": 49.218,
+                        "HT_under_0_5": 19.136,
+                        "HT_under_1_5": 50.778,
+                        "away": 34.868,
+                        "btts": 62.774,
+                        "correct_score": {
+                            "0-0": 4.28,
+                            "0-1": 6.41,
+                            "0-2": 4.8,
+                            "0-3": 2.396,
+                            "0-4": 0.897,
+                            "0-5": 0.269,
+                            "0-6": 0.067,
+                            "0-7": 0.014,
+                            "0-8": 0.003,
+                            "1-0": 7.078,
+                            "1-1": 10.59,
+                            "1-2": 7.937,
+                            "1-3": 3.962,
+                            "1-4": 1.483,
+                            "1-5": 0.444,
+                            "1-6": 0.111,
+                            "1-7": 0.024,
+                            "1-8": 0.004,
+                            "1-9": 0.001,
+                            "2-0": 5.852,
+                            "2-1": 8.764,
+                            "2-2": 6.562,
+                            "2-3": 3.276,
+                            "2-4": 1.226,
+                            "2-5": 0.367,
+                            "2-6": 0.092,
+                            "2-7": 0.02,
+                            "2-8": 0.004,
+                            "2-9": 0.001,
+                            "3-0": 3.226,
+                            "3-1": 4.831,
+                            "3-2": 3.617,
+                            "3-3": 1.806,
+                            "3-4": 0.676,
+                            "3-5": 0.202,
+                            "3-6": 0.051,
+                            "3-7": 0.011,
+                            "3-8": 0.002,
+                            "4-0": 1.333,
+                            "4-1": 1.997,
+                            "4-2": 1.495,
+                            "4-3": 0.746,
+                            "4-4": 0.279,
+                            "4-5": 0.084,
+                            "4-6": 0.021,
+                            "4-7": 0.004,
+                            "4-8": 0.001,
+                            "5-0": 0.441,
+                            "5-1": 0.66,
+                            "5-2": 0.495,
+                            "5-3": 0.247,
+                            "5-4": 0.092,
+                            "5-5": 0.028,
+                            "5-6": 0.007,
+                            "5-7": 0.001,
+                            "6-0": 0.122,
+                            "6-1": 0.182,
+                            "6-2": 0.136,
+                            "6-3": 0.068,
+                            "6-4": 0.025,
+                            "6-5": 0.008,
+                            "6-6": 0.002,
+                            "7-0": 0.029,
+                            "7-1": 0.043,
+                            "7-2": 0.032,
+                            "7-3": 0.016,
+                            "7-4": 0.006,
+                            "7-5": 0.002,
+                            "8-0": 0.006,
+                            "8-1": 0.009,
+                            "8-2": 0.007,
+                            "8-3": 0.003,
+                            "8-4": 0.001,
+                            "9-0": 0.001,
+                            "9-1": 0.002,
+                            "9-2": 0.001,
+                            "9-3": 0.001
+                        },
+                        "draw": 23.556,
+                        "home": 41.574,
+                        "over_2_5": 60.979,
+                        "over_3_5": 38.656,
+                        "under_2_5": 39.019,
+                        "under_3_5": 61.342
+                    }
+                }
+            }
+        }
+    ],
+    "meta": {
+        "subscription": {
+            "started_at": {
+                "date": "2017-03-20 21:02:56.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "trial_ends_at": null,
+            "ends_at": null
+        },
+        "plan": {
+            "name": "Free Plan",
+            "price": "0.00",
+            "request_limit": "3,1"
+        },
+        "sports": [
+            {
+                "id": 1,
+                "name": "Soccer",
+                "current": true
+            },
+            {
+                "id": 6,
+                "name": "Cricket",
+                "current": false
+            }
+        ],
+        "pagination": {
+            "total": 5,
+            "count": 5,
+            "per_page": 100,
+            "current_page": 1,
+            "total_pages": 1,
+            "links": []
+        }
     }
 }
